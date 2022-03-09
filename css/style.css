@@ -1,0 +1,535 @@
+*{
+  margin:0 auto;
+  padding: 0;
+  font-family: 'Eczar', serif;
+  color: rgb(88, 51, 62);
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+.menu1{
+  overflow:hidden;
+height: 80px;
+  position: sticky;
+  top:0px;
+  margin-bottom:50px;
+}
+.menu1{
+ background-color: #f3cdd4;
+ margin: 0;
+ padding: 0;
+ 
+}
+.menu1 li{
+  padding: 5px 20px;
+}
+#dis{
+  color: rgb(88, 51, 62) ;
+}
+
+.menu1 a, .nav h4{
+  color: rgb(88, 51, 62);
+  text-transform: uppercase;
+  font-family: 'Noto Serif', serif;
+  font-size: 14px;
+}
+.menu1{
+display: flex;
+justify-content: space-between;
+text-transform: uppercase;
+padding: 15px 100px;
+font-weight:500;
+}
+
+.menu1 a:hover{
+  color: rgb(199, 133, 141);
+}
+.navbar-brand a:hover{
+  color: rgb(199, 133, 141);
+}
+.menu1 a:focus{
+  color: rgb(94, 74, 74);
+}
+.navbar-brand{
+  text-align: center;
+}
+.navbar-brand a{
+  font-family: 'Satisfy', cursive;
+  text-transform: none;
+  font-size: 40px;
+  color: rgb(88, 51, 62);
+  text-decoration: none;
+}
+.menu1 button{
+  background-color: rgb(223, 155, 163);
+  color: white;
+  width: 100px;
+  height: 35px;
+  font-size: 15px;
+  text-transform: uppercase;
+  border-color: transparent;
+  letter-spacing: 1px;
+}
+.menu li{
+  padding: 5px 15px;
+}
+.logo{
+  text-align: center;
+  
+}
+.logo img{
+  height: 200px;
+  position: relative;
+}
+.menu a{
+  color: rgb(88, 51, 62);
+  text-transform: uppercase;
+  font-size: 16px;
+  padding: 5px 15px;
+  font-family: 'Noto Serif', serif;
+  letter-spacing: 2px;
+}
+
+#carousel{
+  margin: 50px auto;
+  }
+#carousel img{
+  height: 450px;
+  filter: brightness(70%);
+ 
+}
+#carousel h5{
+  font-size: 45px;
+  margin-bottom: 140px;
+  color: white;
+  font-family: 'Eczar', serif;
+  letter-spacing: 2px;
+
+}
+#carousel p{
+  font-family: 'Satisfy', cursive;
+  font-size: 22px;
+  color: rgb(224, 188, 115);
+}
+
+ #about a, #footer button, .login button, .book button, .serviceDiv button, #products button{
+  background-color: rgb(223, 155, 163);
+  color: white;
+  width: 140px;
+  height: 40px;
+  font-size: 18px;
+  text-transform: uppercase;
+  border-color: transparent;
+  letter-spacing: 1px;
+  }
+ 
+  input:valid{
+    border: 1px solid rgb(199, 133, 141) ;
+  }
+  #footer input{
+    border: 1px solid rgb(163, 149, 149);
+  }
+  .carousel-item a{
+   padding-bottom: 50px;
+  }
+  .car{
+    height: 30px;
+  }
+  #about{
+    display: flex;
+    margin: 35px 25px;
+  }
+  
+  #footer button :hover{
+  background-color: rgb(243, 183, 190);
+}
+  .login button :hover{
+  background-color: rgb(243, 183, 190);}
+  #contactUs a:hover{
+    background-color: rgb(243, 183, 190);
+  }
+
+#about h2{
+  color: rgb(199, 133, 141);
+  font-size: 35px;
+  letter-spacing: 1px;
+  font-family: 'Noto Serif', serif;
+}
+.aboutImage img{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 90%;
+  height: 700px
+  
+}
+#about p{
+  font-size: 23px;
+  letter-spacing: 2px;
+  font-family: 'Eczar', serif;
+}
+#about p:hover{
+  color: rgb(88, 51, 62);
+}
+
+#aboutText{
+  text-align: center;
+  background-color: white;
+  border: 2px solid rgb(199, 133, 141);
+  width: 550px;
+  height: 530px;
+  padding: 15px;
+  margin-top: 85px;
+  margin-left:-160px;
+  padding-bottom: 35px;
+  z-index: 10;
+}
+.hr1{
+  color: rgb(145, 131, 104);
+  margin: 20px 25px;
+  
+}
+.hr2{
+  color: rgb(145, 131, 104);
+  margin: 30px 35px;
+  
+}
+#services{
+ margin-top: 50px;
+ padding-top: 50px;
+ margin-bottom: 25px;
+}
+.serviceDiv{
+  text-align: center;
+}
+
+#services h1{
+  color: rgb(199, 133, 141);
+color: white;
+  font-family: 'Eczar', serif;
+  font-size: 50px;
+}
+#treatments{
+  margin: 20px 15px;
+  margin-bottom: 40px;
+  
+}
+.c button:hover{
+  background-color: rgb(247, 236, 238);
+  color: #c27a86;
+}
+#treatments p{
+  font-size: 15px;
+  
+}
+#treatments img{
+  height: 300px;
+  filter: opacity(.8);
+  border-bottom: 1px solid rgb(110, 68, 93);
+}
+#treatments #card{
+  border: 2px solid rgb(88, 51, 62);
+ 
+}
+#treatments #card:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border: 3px solid white;
+}
+.c{
+  margin-bottom: 50px;
+}
+.serviceDiv{
+  background-color: rgb(240, 192, 192);
+  background-size: cover;
+  padding-bottom: 30px;
+  margin-bottom: 50px;
+}
+#products h2{
+  margin-top: 40px;
+  margin-bottom: 50px;
+  font-size: 36px;
+}
+#products{
+  margin-bottom: 60px;
+}
+#products button{
+  margin-top: 20px;
+  width: 100px;
+  background-color: rgb(248, 205, 209);
+  border-radius: 15%;
+  border: 1px solid rgb(175, 109, 119);
+  
+}
+#products img{
+  width: 300px;
+  height: 400px;
+  margin-bottom: 15px;
+}
+
+#products img:hover{
+  opacity: .7;
+}
+#contactUs{
+  display: flex;
+  margin: 55px 35px 65px 35px;
+  text-align: center;
+}
+#contactText{
+  background-color: rgb(248, 237, 248);
+  padding: 20px 15px;
+  width: 50%;
+  letter-spacing: 1px;
+}
+#contactText h2{
+  margin-top: 40px;
+}
+#contactImage{
+  height: 300px;
+  width: 50%;
+}
+#contactImage img{
+  width: 100%;
+  height: 300px;
+}
+#contactText p{
+  font-size: 18px;
+}
+#contactUs a, #carouselItems a, #about a{
+  text-decoration: none;
+  background-color: rgb(223, 155, 163);
+  color: white;
+  width: 140px;
+  height: 43px;
+  font-size: 18px;
+  text-transform: uppercase;
+  border-color: transparent;
+  padding: 8px 15px;
+
+}
+#about a:hover{
+  background-color: rgb(243, 183, 190);
+}
+#footer h5{
+  color: rgb(71, 68, 60);
+  font-size: 20px;
+  
+}
+
+
+.login{
+  width: 400px;
+}
+.login h1{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 41px;
+}
+.login a{
+  color: rgb(88, 51, 62);
+  text-decoration: none;
+  
+}
+.login a:hover{
+  color: #756737;
+}
+
+.login button{
+  margin-top: 30px;
+}
+ label , input{
+  color: rgb(105, 103, 101);
+}
+#form{
+  margin-bottom: 30px;
+}
+.book{
+  margin-left: 150px;
+  margin-top: 50px;
+  width: 600px;
+  margin-bottom: 50px;
+}
+.book1{
+  margin-top: 30px;
+  padding: 30px 20px;
+  width: 700px;
+  height: 300px;
+  background-color: white;
+  border: 1px solid rgb(233, 152, 161);
+  margin-bottom: 40px;
+}
+.book1:hover{
+  box-shadow: rgba(104, 70, 70, 0.35) 0px 5px 15px;
+}
+.book1 li, .details p{
+  font-size: 18px;
+}
+.accordion-item button{ 
+  background-color: rgb(230, 175, 182);
+  margin-bottom: 15px;
+}
+.accordion-item button:focus{
+  background-color: #e4b6be;
+  box-shadow: rgba(104, 70, 70, 0.35) 0px 5px 15px;
+  color: white;
+}
+.accordion-item li,.accordion-item p{
+  font-size: 18px;
+}
+.accordion-item p{
+  font-size: 18px;
+}
+#footer{
+  margin-bottom: 40px;
+}
+#footer button{
+  height: 35px;
+  width: 110px;
+  font-size: 16px;
+}
+.nav{
+  float: left;
+  
+}
+.nav h4{
+  margin-top:15px ;
+  margin-left: 160px;
+  
+  display: none;
+  
+}
+#toggle{
+  display: none;
+}
+#l{
+  margin: 8px 0 0 20px;
+  font-size: 28px;
+  color:rgb(109, 69, 94); 
+  display: none;
+}
+
+@media(max-width: 700px){
+  .nav h4{
+    font-size: 20px;
+  }
+
+  .nav{
+  margin-bottom: 20px;
+  width: 100%;
+  height: 50px;
+  background-color: #f3cdd4;
+  }
+  .nav h4{
+    display: inline-block;
+  }
+  #l{
+    display: block;
+    cursor: pointer;
+  }
+  .menu1{
+    display: block;
+    padding-top: 50px;
+    text-align: center;
+  
+  }
+  .menu1 a{
+    font-size: 20px;
+  }
+  .menu1 .nav-link{
+    border-top: 1px solid rgb(109, 69, 94);
+    padding: 10px 0;
+  }
+  #toggle:checked + .menu1{
+    display: none;
+  }
+  .aboutImage img{
+    width: 100%;
+    height: 500px;
+    margin-bottom: 30px;
+  }
+  #carousel h5{
+    font-size: 45px;
+    margin-bottom: 70px;
+  }
+  #aboutText{
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    
+  }
+  #aboutText p{
+    font-size: 22px;
+  }
+  #about{
+    margin:5px 5px;
+    display: block;
+  }
+  #products h6, #treatments h5, #contactUs h2{
+    font-size: 27px;
+  }
+  #products p, #treatments p, #contactUs p{
+    font-size: 20px;
+  }
+  #products p{
+    margin-bottom: 25px;
+  }
+  #card{
+    width: 90%;
+  }
+  #contactUs{
+    display: block;
+    margin:5px 10px;
+  }
+  #contactText, #contactImage{
+    width: 100%;
+  }
+  #footer{
+    text-align: center;
+  }
+  #footer img{
+    width: 35px;
+  }
+  #footer h5{
+    font-size: 22px;
+  }
+  #footer p{
+    font-size: 17px;
+  }
+  #footerItems{
+    margin-bottom: 30px;
+  }
+  .login{
+    text-align: center;
+  }
+  .book{
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    
+  }
+  .book h1{
+    font-size: 35px;
+    text-align: center;
+  }
+  .book p{
+    font-size: 20px;
+  }
+  .book1{
+    width: 100%;
+    height: auto;
+  }
+  .book1 h4{
+    text-align: center;
+    font-size: 26px;
+  }
+  .book1 button{
+    margin-left: 120px
+  }
+
+  .details{
+    width: 100%;
+  }
+
+ 
+  
+}
+
+
+
